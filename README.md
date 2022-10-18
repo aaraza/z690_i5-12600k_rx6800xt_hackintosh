@@ -1,5 +1,8 @@
 # z690_i5-12600k_rx6800xt_hackintosh
 
+## Hardware
+
+```md
 |              [CPU][Intel Core i5-12600K 3.7 GHz 10-Core Processor]
 |       [CPU Cooler][Noctua NH-U12S chromax.black 55 CFM CPU Cooler]
 |      [Motherboard][Gigabyte Z690 AORUS ELITE AX DDR4 ATX LGA1700 Motherboard]
@@ -11,3 +14,9 @@
 |     [Power Supply][EVGA SuperNOVA 650 GT 650 W 80+ Gold Certified Fully Modular ATX Power Supply]
 | [Operating System][Microsoft Windows 10 Home OEM - DVD 64-bit]
 |          [Monitor][Asus TUF Gaming VG27AQ1A 27.0" 2560 x 1440 170 Hz Monitor]
+```
+
+## Resources
+- [Alder Lake Base EFI](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE)
+- [Boot Loop Fix](https://www.reddit.com/r/hackintosh/comments/pwybqo/boot_loop_into_recovery_with_1015_installer_and/)
+- [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
