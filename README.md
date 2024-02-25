@@ -17,6 +17,6 @@
 ```
 
 ## Resources
-- [Alder Lake Base EFI](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE)
+- [Alder Lake Base EFI](https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-12THGEN-ALDER-LAKE-PUBLIC)
 - [Boot Loop Fix](https://www.reddit.com/r/hackintosh/comments/pwybqo/boot_loop_into_recovery_with_1015_installer_and/)
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
